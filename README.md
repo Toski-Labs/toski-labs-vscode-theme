@@ -75,7 +75,8 @@ Para o VS Code usar o Toski Light de dia e o Toski Dark à noite, junto com o ma
 | Texto secundário | `#AA9481` | `#6E5A4B` |
 | Números de linha | `#A08A78` | `#7A6556` |
 | Destaque | `#DB9A5B` | `#A9541F` |
-| Barra de status | `#A9541F` / `#FFF8EE` | `#A9541F` / `#FFF8EE` |
+| Barra de status | `#1B1511` / `#AA9481` | `#EFE5D6` / `#6E5A4B` |
+| Barra de status (debug) | `#A9541F` / `#FFF8EE` | `#A9541F` / `#FFF8EE` |
 | Linha atual | `#2E241D` | `#F7EFE3` |
 | Item ativo da lista | `#3A2D23` | `#EBDAC2` |
 | Seleção | `#4A3A2E` | `#EBDAC2` |

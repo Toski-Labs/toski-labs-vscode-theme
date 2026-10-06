@@ -23,8 +23,10 @@ export const dark = {
   accent: '#DB9A5B', // destaque da interface
   onAccent: '#231B17',
   link: '#DB9A5B',
-  status: '#A9541F',
+  status: '#A9541F', // usado só durante o debug
   onStatus: '#FFF8EE',
+  // Barra de status discreta: mesma cor dos painéis, texto secundário
+  statusBar: { bg: '#1B1511', fg: '#AA9481', border: '#43352B', hover: '#3A2D23', remote: '#DB9A5B' },
   lineHighlight: '#2E241D',
   listActive: '#3A2D23',
   selection: '#4A3A2E',
@@ -85,8 +87,10 @@ export const light = {
   accent: '#A9541F',
   onAccent: '#FFF8EE',
   link: '#994C1C', // ferrugem ajustado para texto (4,5:1 em todos os fundos)
-  status: '#A9541F',
+  status: '#A9541F', // usado só durante o debug
   onStatus: '#FFF8EE',
+  // Barra de status discreta: mesma cor dos painéis, texto secundário
+  statusBar: { bg: '#EFE5D6', fg: '#6E5A4B', border: '#E2D3BE', hover: '#EBDAC2', remote: '#994C1C' },
   lineHighlight: '#F7EFE3',
   listActive: '#EBDAC2',
   selection: '#EBDAC2',

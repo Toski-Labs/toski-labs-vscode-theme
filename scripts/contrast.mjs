@@ -100,7 +100,11 @@ for (const file of ['toski-dark-color-theme.json', 'toski-light-color-theme.json
   add('placeholder', c['input.placeholderForeground'], 'input', c['input.background']);
   add('texto do input', c['input.foreground'], 'input', c['input.background']);
   add('barra de status', c['statusBar.foreground'], 'barra de status', status);
-  add('barra de status', c['statusBarItem.hoverForeground'], 'barra de status (hover)', over(status, c['statusBarItem.hoverBackground']));
+  add('barra de status (hover)', c['statusBarItem.hoverForeground'], 'barra de status (hover)', c['statusBarItem.hoverBackground']);
+  add('item remoto', c['statusBarItem.remoteForeground'], 'barra de status', c['statusBarItem.remoteBackground']);
+  add('erro na barra', c['statusBarItem.errorForeground'], 'barra de status', c['statusBarItem.errorBackground']);
+  add('aviso na barra', c['statusBarItem.warningForeground'], 'barra de status', c['statusBarItem.warningBackground']);
+  add('barra de status (debug)', c['statusBar.debuggingForeground'], 'barra de status (debug)', c['statusBar.debuggingBackground']);
   add('botão', c['button.foreground'], 'botão', c['button.background']);
   add('botão', c['button.foreground'], 'botão (hover)', c['button.hoverBackground']);
   add('botão secundário', c['button.secondaryForeground'], 'botão secundário', c['button.secondaryBackground']);

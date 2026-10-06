@@ -213,8 +213,12 @@
 | interface | título da janela | `#F1E6D8` | title bar | `#1B1511` | 14.67 | ok |
 | interface | placeholder | `#AA9481` | input | `#1B1511` | 6.25 | ok |
 | interface | texto do input | `#F1E6D8` | input | `#1B1511` | 14.67 | ok |
-| interface | barra de status | `#FFF8EE` | barra de status | `#A9541F` | 5.01 | ok |
-| interface | barra de status | `#FFF8EE` | barra de status (hover) | `#8E491D` | 6.38 | ok |
+| interface | barra de status | `#AA9481` | barra de status | `#1B1511` | 6.25 | ok |
+| interface | barra de status (hover) | `#F1E6D8` | barra de status (hover) | `#3A2D23` | 10.79 | ok |
+| interface | item remoto | `#DB9A5B` | barra de status | `#1B1511` | 7.56 | ok |
+| interface | erro na barra | `#F09A78` | barra de status | `#1B1511` | 8.26 | ok |
+| interface | aviso na barra | `#E8C26B` | barra de status | `#1B1511` | 10.64 | ok |
+| interface | barra de status (debug) | `#FFF8EE` | barra de status (debug) | `#A9541F` | 5.01 | ok |
 | interface | botão | `#231B17` | botão | `#DB9A5B` | 7.08 | ok |
 | interface | botão | `#231B17` | botão (hover) | `#F4D3A8` | 11.87 | ok |
 | interface | botão secundário | `#F1E6D8` | botão secundário | `#3A2D23` | 10.79 | ok |
@@ -494,8 +498,12 @@
 | interface | título da janela | `#231B17` | title bar | `#EFE5D6` | 13.58 | ok |
 | interface | placeholder | `#6E5A4B` | input | `#FBF6EE` | 6.05 | ok |
 | interface | texto do input | `#231B17` | input | `#FBF6EE` | 15.73 | ok |
-| interface | barra de status | `#FFF8EE` | barra de status | `#A9541F` | 5.01 | ok |
-| interface | barra de status | `#FFF8EE` | barra de status (hover) | `#8E491D` | 6.38 | ok |
+| interface | barra de status | `#6E5A4B` | barra de status | `#EFE5D6` | 5.22 | ok |
+| interface | barra de status (hover) | `#231B17` | barra de status (hover) | `#EBDAC2` | 12.36 | ok |
+| interface | item remoto | `#994C1C` | barra de status | `#EFE5D6` | 4.95 | ok |
+| interface | erro na barra | `#A3341A` | barra de status | `#EFE5D6` | 5.50 | ok |
+| interface | aviso na barra | `#6E5500` | barra de status | `#EFE5D6` | 5.69 | ok |
+| interface | barra de status (debug) | `#FFF8EE` | barra de status (debug) | `#A9541F` | 5.01 | ok |
 | interface | botão | `#FFF8EE` | botão | `#A9541F` | 5.01 | ok |
 | interface | botão | `#FFF8EE` | botão (hover) | `#994C1C` | 5.85 | ok |
 | interface | botão secundário | `#231B17` | botão secundário | `#EBDAC2` | 12.36 | ok |
