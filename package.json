@@ -1,0 +1,63 @@
+{
+  "name": "toski-theme",
+  "displayName": "Toski Theme",
+  "description": "Toski Dark e Toski Light: temas quentes, em tons de caramelo, ferrugem e carvão, com a identidade visual da Toski Labs.",
+  "publisher": "toskilabs",
+  "license": "MIT",
+  "author": {
+    "name": "Toski Labs",
+    "url": "https://toski-labs.web.app",
+    "email": "toskilabs@gmail.com"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Toski-Labs/toski-labs-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/Toski-Labs/toski-labs-vscode-theme/issues/new",
+    "email": "toskilabs@gmail.com"
+  },
+  "homepage": "https://toski-labs.web.app/estudio/temas",
+  "keywords": [
+    "toski",
+    "toski labs",
+    "theme",
+    "dark theme",
+    "light theme",
+    "warm theme",
+    "caramel",
+    "brown",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#231B17",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "build": "node scripts/build-themes.mjs",
+    "contrast": "node scripts/contrast.mjs",
+    "package": "npx @vscode/vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toski Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toski-dark-color-theme.json"
+      },
+      {
+        "label": "Toski Light",
+        "uiTheme": "vs",
+        "path": "./themes/toski-light-color-theme.json"
+      }
+    ]
+  }
+}
