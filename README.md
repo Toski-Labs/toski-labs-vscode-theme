@@ -55,6 +55,12 @@ Para o VS Code usar o Toski Light de dia e o Toski Dark à noite, junto com o ma
 "workbench.preferredDarkColorTheme": "Toski Dark"
 ```
 
+### TypeScript
+
+![Toski Dark com TypeScript](images/toski-dark-typescript.png)
+
+![Toski Light com TypeScript](images/toski-light-typescript.png)
+
 ### Swift
 
 ![Toski Dark com Swift](images/toski-dark-swift.png)
@@ -156,6 +162,14 @@ To use Toski Light by day and Toski Dark at night, following macOS or Windows, a
 "workbench.preferredLightColorTheme": "Toski Light",
 "workbench.preferredDarkColorTheme": "Toski Dark"
 ```
+
+### Screenshots
+
+![Toski Dark with TypeScript](images/toski-dark-typescript.png)
+
+![Toski Light with TypeScript](images/toski-light-typescript.png)
+
+More screenshots (TSX and Swift) are in the Portuguese section above.
 
 ### Palette
 
