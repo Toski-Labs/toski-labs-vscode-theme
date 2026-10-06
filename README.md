@@ -67,6 +67,24 @@ Para o VS Code usar o Toski Light de dia e o Toski Dark à noite, junto com o ma
 
 ![Toski Light com Swift](images/toski-light-swift.png)
 
+### Exemplos por linguagem
+
+<a id="exemplos"></a>
+| | Toski Dark | Toski Light |
+|---|---|---|
+| **TSX** | ![TSX no Toski Dark](images/exemplos/tsx-dark.png) | ![TSX no Toski Light](images/exemplos/tsx-light.png) |
+| **TypeScript** | ![TypeScript no Toski Dark](images/exemplos/typescript-dark.png) | ![TypeScript no Toski Light](images/exemplos/typescript-light.png) |
+| **JavaScript** | ![JavaScript no Toski Dark](images/exemplos/javascript-dark.png) | ![JavaScript no Toski Light](images/exemplos/javascript-light.png) |
+| **Erros e avisos** | ![Erros e avisos no Toski Dark](images/exemplos/erros-dark.png) | ![Erros e avisos no Toski Light](images/exemplos/erros-light.png) |
+| **Swift** | ![Swift no Toski Dark](images/exemplos/swift-dark.png) | ![Swift no Toski Light](images/exemplos/swift-light.png) |
+| **JSON** | ![JSON no Toski Dark](images/exemplos/json-dark.png) | ![JSON no Toski Light](images/exemplos/json-light.png) |
+| **Markdown** | ![Markdown no Toski Dark](images/exemplos/markdown-dark.png) | ![Markdown no Toski Light](images/exemplos/markdown-light.png) |
+| **CSS** | ![CSS no Toski Dark](images/exemplos/css-dark.png) | ![CSS no Toski Light](images/exemplos/css-light.png) |
+| **HTML** | ![HTML no Toski Dark](images/exemplos/html-dark.png) | ![HTML no Toski Light](images/exemplos/html-light.png) |
+| **YAML** | ![YAML no Toski Dark](images/exemplos/yaml-dark.png) | ![YAML no Toski Light](images/exemplos/yaml-light.png) |
+| **Shell** | ![Shell no Toski Dark](images/exemplos/shell-dark.png) | ![Shell no Toski Light](images/exemplos/shell-light.png) |
+| **Diff** | ![Diff no Toski Dark](images/exemplos/diff-dark.png) | ![Diff no Toski Light](images/exemplos/diff-light.png) |
+
 ### Paleta
 
 ![Paleta Toski](images/palette.png)
@@ -169,7 +187,7 @@ To use Toski Light by day and Toski Dark at night, following macOS or Windows, a
 
 ![Toski Light with TypeScript](images/toski-light-typescript.png)
 
-More screenshots (TSX and Swift) are in the Portuguese section above.
+More screenshots (TSX and Swift) and one image per language (TSX, TypeScript, JavaScript, errors and warnings, Swift, JSON, Markdown, CSS, HTML, YAML, shell and diff) are in the [examples table](#exemplos) above.
 
 ### Palette
 
